@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTransactionPlugin", "AddTransactionPlugin\AddTransactionPlugin.csproj", "{22F81B1B-F634-4E0C-A5E1-276FD9CDDE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F81B1B-F634-4E0C-A5E1-276FD9CDDE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F81B1B-F634-4E0C-A5E1-276FD9CDDE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F81B1B-F634-4E0C-A5E1-276FD9CDDE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F81B1B-F634-4E0C-A5E1-276FD9CDDE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315790BD-1089-44B7-B057-893C93442E75}
+	EndGlobalSection
+EndGlobal
